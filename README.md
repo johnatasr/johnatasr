@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, </h1>
+<h1 align="center">Welcome to my repository</h1>
 
 
 <p>My name is Johnatas I am a software developer who likes technology as a whole. My specialties are backend tools, but I am a strong enthusiast for DevOps technologies and Machine Learning tools / methodologies. I always try to learn something new and improve myself. Feel free in the projects I have here and any questions I am available.</p>
@@ -60,5 +60,5 @@
 
 <div align="center">
   <h2>Contact/h2>
-  <a href="https://www.linkedin.com/in/johnatas-rabelo-690579117/" target="blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px">&ensp;&ensp;
+  <a href="https://www.linkedin.com/in/johnatas-rabelo-690579117/" target="blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px">&ensp;&ensp;</a>
 </div>
