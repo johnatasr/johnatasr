@@ -13,7 +13,6 @@
         <img src="https://img.icons8.com/color/30/000000/django.png" title="django"/>&ensp;&ensp;
         <img src="https://img.icons8.com/fluent/30/000000/flask.png" title="flask"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
-        <i class="devicon-express-original"></i>
         <img src="https://img.icons8.com/color/30/000000/golang.png" title="golang"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/postgreesql.png" title="postgresql">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/redis.png" title="redis">&ensp;&ensp;
@@ -28,8 +27,7 @@
         <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
         <img src="https://img.icons8.com/nolan/30/react-native.png" title="react-native"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/babel.png"  width="16px" title="babel"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/dusk/30/000000/babel.png"  width="16px" title="babel"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/dusk/30/000000/webpack.png" width="16px" title="babel"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/dusk/30/000000/webpack.png" width="16px" title="webpack"/>&ensp;&ensp;
   </div>
   
   <div>
@@ -50,9 +48,9 @@
    <h3>Tools</h3>
         <img src="https://img.icons8.com/color/30/000000/ubuntu.png" title="ubuntu"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/notion.png" title="notion"/>&ensp;&ensp;
-        <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
-        <img src="https://img.icons8.com/color/30/000000/pycharm.png" width="16px" title="pycharm">&ensp;&ensp;
-        <img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png" width="16px" title="vscode">&ensp;&ensp;
+        <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="figma">&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/pycharm.png"  title="pycharm">&ensp;&ensp;
+        <img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png" title="vscode">&ensp;&ensp;
   </div>
   
 
