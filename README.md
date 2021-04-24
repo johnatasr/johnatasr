@@ -15,6 +15,7 @@
         <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/golang.png" title="golang"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/postgreesql.png" title="postgresql">&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/mongo.png" title="mongo">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/redis.png" title="redis">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/elasticsearch.png" title="elastic">&ensp;&ensp;
         <img src="https://img.icons8.com/fluent/30/000000/selenium-test-automation.png" title="selenium">&ensp;&ensp;
