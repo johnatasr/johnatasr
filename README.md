@@ -20,6 +20,7 @@
         <img src="https://img.icons8.com/color/30/000000/elasticsearch.png" title="elastic">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/sql.png" title="sql">&ensp;&ensp;
         <img src="https://img.icons8.com/fluent/30/000000/selenium-test-automation.png" title="selenium">&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/graphql.png" title="graphql">&ensp;&ensp;
   </div>
   
   <div>
@@ -27,13 +28,13 @@
         <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
         <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/plasticine/30/000000/redux.png" title="redux"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/redux.png" title="redux"/>&ensp;&ensp;
         <img src="https://img.icons8.com/nolan/30/react-native.png" title="react-native"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/babel.png" title="babel"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/webpack.png" title="webpack"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/plasticine/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/plasticine/30/000000/html.png" title="html"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/plasticine/30/000000/css.png" title="css"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/html.png" title="html"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/css.png" title="css"/>&ensp;&ensp;
   </div>
   
   <div>
@@ -77,6 +78,6 @@
  
 <div align="center">
   <h2>Contacts</h2>
-  <a href="https://www.linkedin.com/in/johnatas-rabelo-690579117/" target="blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px">&ensp;&ensp;</a>
+  <a href="https://www.linkedin.com/in/johnatas-rabelo-690579117/" target="blank"><img src="https://img.icons8.com/color/30/000000/linkedin.png" width="25px">&ensp;&ensp;</a>
 </div>
 
