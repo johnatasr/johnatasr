@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my repository</h1>
 
 
-<p>My name is Johnatas I am a software developer who likes technology as a whole. My specialties are backend tools, but I am a strong enthusiast for DevOps technologies and Machine Learning tools / methodologies. I always try to learn something new and improve myself. Feel free in the projects I have here and any questions I am available.</p>
+<p>My name is Johnatas, and I am a software developer who is passionate about technology as a whole. My area of expertise is backend development, but I am also an enthusiastic learner of DevOps technologies and Machine Learning tools/methodologies. I constantly strive to learn and improve myself. Please feel free to reach out to me for any questions or inquiries about the projects I have worked on. I am always available to help.</p>
 
 
 <div align="left">
@@ -18,6 +18,7 @@
         <img src="https://img.icons8.com/color/30/000000/mongodb.png" title="mongodb">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/redis.png" title="redis">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/elasticsearch.png" title="elastic">&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/sql.png" title="sql">&ensp;&ensp;
         <img src="https://img.icons8.com/fluent/30/000000/selenium-test-automation.png" title="selenium">&ensp;&ensp;
   </div>
   
@@ -26,24 +27,29 @@
         <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
         <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/plasticine/30/000000/redux.png" title="redux"/>&ensp;&ensp;
         <img src="https://img.icons8.com/nolan/30/react-native.png" title="react-native"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/babel.png" title="babel"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/webpack.png" title="webpack"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/plasticine/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/plasticine/30/000000/html.png" title="html"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/plasticine/30/000000/css.png" title="css"/>&ensp;&ensp;
   </div>
   
   <div>
     <h3>DevOps</h3>
+        <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png" title="aws"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/docker.png" title="docker"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/kubernetes.png" title="k8s"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/nginx.png" title="nginx"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/git.png" title="git"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/gitlab.png" title="gitlab"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/color/30/000000/azure-1.png" title="azure"/>&ensp;&ensp;
         <img src="https://img.icons8.com/windows/30/000000/digital-ocean.png" title="do"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png" title="aws"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/travis-ci.png" title="travis"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/kibana.png" title="kibana"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/jenkins.png" title="jenkins"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/ansible.png" title="ansible"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/terraform.png" title="terraform"/>&ensp;&ensp;
   </div>
   
    <h3>Tools</h3>
