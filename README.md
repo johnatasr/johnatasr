@@ -71,7 +71,7 @@
   <h2 align="center">Dashboards</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=johnatasr&count_private=true&show_icons=true&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="johnatasr" width="420" align="center"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatasr&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="johnatasr" height="165" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatasr&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D&hide=html,css,scss" alt="johnatasr" height="165" align="center"/>
 
 
 </div>
