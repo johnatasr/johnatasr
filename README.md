@@ -30,7 +30,7 @@
         <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/redux.png" title="redux"/>&ensp;&ensp;
         <img src="https://img.icons8.com/nolan/30/react-native.png" title="react-native"/>&ensp;&ensp;
-        <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js" title="react-native"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/vue-js.png" title="react-native"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/babel.png" title="babel"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/webpack.png" title="webpack"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
