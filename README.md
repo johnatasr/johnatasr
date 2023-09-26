@@ -10,10 +10,10 @@
   <div>
     <h3>Backend</h3>
         <img src="https://img.icons8.com/color/30/000000/python.png" title="python"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/golang.png" title="golang"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/django.png" title="django"/>&ensp;&ensp;
         <img src="https://img.icons8.com/fluent/30/000000/flask.png" title="flask"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
-        <img src="https://img.icons8.com/color/30/000000/golang.png" title="golang"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/postgreesql.png" title="postgresql">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/mongodb.png" title="mongodb">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/redis.png" title="redis">&ensp;&ensp;
@@ -30,6 +30,7 @@
         <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/redux.png" title="redux"/>&ensp;&ensp;
         <img src="https://img.icons8.com/nolan/30/react-native.png" title="react-native"/>&ensp;&ensp;
+        <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js" title="react-native"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/babel.png" title="babel"/>&ensp;&ensp;
         <img src="https://img.icons8.com/dusk/30/000000/webpack.png" title="webpack"/>&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
