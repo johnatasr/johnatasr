@@ -55,7 +55,8 @@
   </div>
   
    <h3>Tools</h3>
-        <img src="https://img.icons8.com/color/30/000000/ubuntu.png" title="ubuntu"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/linux.png" title="ubuntu"/>&ensp;&ensp;
+        <img src="https://img.icons8.com/color/30/000000/ubuntu.png" title="ubuntu"/>&ensp;&ensp; 
         <img src="https://img.icons8.com/color/30/000000/notion.png" title="notion"/>&ensp;&ensp;
         <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
         <img src="https://img.icons8.com/color/30/000000/pycharm.png"  title="pycharm">&ensp;&ensp;
